@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Results
+Appendix_cache/**
+Samples/**
+Plots/**
+Plots_Save/**
+Appendix.log
+*.Rproj
